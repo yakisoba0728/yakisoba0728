@@ -74,6 +74,6 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yakisoba0728&theme=ambient_gradient&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakisoba&layout=compact&bg_color=60,ff94cd,dfe156&title_color=000000&text_color=000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakisoba0728&layout=compact&bg_color=60,ff94cd,dfe156&title_color=000000&text_color=000000" />
   </div>
 </div>
