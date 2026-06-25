@@ -4,14 +4,14 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-    AI Prompt Enginer | AI Developer | Security Enthusiast | Backend & Systems | High School Engineer
+    Agentic Engineer | AI Developer | Security Enthusiast | Backend & Systems | High School Engineer
   </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
     AI Developer building secure and scalable systems.<br>
     High school engineer focused on cybersecurity, backend development, systems, and AI-driven software engineering.<br>
     I'm a vibe coder who actively uses AI while also building things hands-on with real development skills.<br>
     From traditional coding to AI-augmented workflows, I create practical solutions that work in the real world.<br>
-    Security | Systems | AI | Development | Vibe Coding
+    Security | Systems | AI | Development | Agentic Engineer
   </div>
 </div>
 
