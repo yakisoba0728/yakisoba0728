@@ -55,17 +55,18 @@
 </div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧬 Folding@home</h2>
+  <h2>🧬 Folding@home</h2>
   <br>
 
-  <a href="https://apps.foldingathome.org/awards?user=795826391">
-    <img src="./assets/folding-awards-overall.png" width="48%" alt="Folding@home Awards Overall" />
-  </a>
+  <img
+    src="https://api.foldingathome.org/awards?user=795826391&amp;type=score"
+    width="48%"
+    alt="Folding@home Points Award"
+  />
 
-  <a href="https://apps.foldingathome.org/awards?user=795826391&type=wus">
-    <img src="./assets/folding-awards-wus.png" width="48%" alt="Folding@home Awards Work Units" />
-  </a>
-
-  <br><br>
-  <sub>Click the images to view the full Folding@home award pages.</sub>
+  <img
+    src="https://api.foldingathome.org/awards?user=795826391&amp;type=wus"
+    width="48%"
+    alt="Folding@home Work Units Award"
+  />
 </div>
