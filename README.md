@@ -55,18 +55,30 @@
 </div>
 
 <div align="center">
-  <h2>🧬 Folding@home</h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧬 Folding@home</h2>
+  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+    Supporting distributed scientific research through shared computing power.
+  </div>
   <br>
 
-  <img
-    src="https://api.foldingathome.org/awards?user=795826391&amp;type=score"
-    width="48%"
-    alt="Folding@home Points Award"
-  />
-
-  <img
-    src="https://api.foldingathome.org/awards?user=795826391&amp;type=wus"
-    width="48%"
-    alt="Folding@home Work Units Award"
-  />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <sub><b>Points Award</b></sub><br><br>
+        <img
+          src="https://api.foldingathome.org/awards?user=795826391&amp;type=score"
+          alt="Folding@home Points Award"
+          width="300"
+        />
+      </td>
+      <td align="center" width="50%">
+        <sub><b>Work Units Award</b></sub><br><br>
+        <img
+          src="https://api.foldingathome.org/awards?user=795826391&amp;type=wus"
+          alt="Folding@home Work Units Award"
+          width="300"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
