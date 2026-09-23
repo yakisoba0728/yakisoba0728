@@ -59,24 +59,13 @@
   <br>
 
   <a href="https://apps.foldingathome.org/awards?user=795826391">
-    <img src="https://img.shields.io/badge/Folding%40home-Donor%20Profile-4256A6?style=for-the-badge" />
+    <img src="./assets/folding-awards-overall.png" width="48%" alt="Folding@home Awards Overall" />
   </a>
 
   <a href="https://apps.foldingathome.org/awards?user=795826391&type=wus">
-    <img src="https://img.shields.io/badge/Folding%40home-Work%20Units-00A88F?style=for-the-badge" />
+    <img src="./assets/folding-awards-wus.png" width="48%" alt="Folding@home Awards Work Units" />
   </a>
 
   <br><br>
-
-  <sub>
-    Contributing compute power to distributed scientific research through Folding@home.
-  </sub>
-</div>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yakisoba0728&theme=ambient_gradient&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakisoba0728&layout=compact&bg_color=60,ff94cd,dfe156&title_color=000000&text_color=000000" />
-  </div>
+  <sub>Click the images to view the full Folding@home award pages.</sub>
 </div>
