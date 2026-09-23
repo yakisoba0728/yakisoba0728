@@ -55,20 +55,22 @@
 </div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧬 Folding@home</h2>
   <br>
-  <div align="center">
-    <a href="https://www.instagram.com/yakisoba0728/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white">
-    </a>
-    <a href="mailto:yakihyuk0728@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
-    </a>
-    <a href="https://www.notion.so/No-Hello-I-m-KimDongHyeok-Portfolio-326d9bc767f080378287fe4d5fede237?source=copy_link">
-      <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
-    </a>
-  </div>
-  <br>
+
+  <a href="https://apps.foldingathome.org/awards?user=795826391">
+    <img src="https://img.shields.io/badge/Folding%40home-Donor%20Profile-4256A6?style=for-the-badge" />
+  </a>
+
+  <a href="https://apps.foldingathome.org/awards?user=795826391&type=wus">
+    <img src="https://img.shields.io/badge/Folding%40home-Work%20Units-00A88F?style=for-the-badge" />
+  </a>
+
+  <br><br>
+
+  <sub>
+    Contributing compute power to distributed scientific research through Folding@home.
+  </sub>
 </div>
 
 <div align="center">
